@@ -76,8 +76,4 @@ Charlie left Python Lounge
 
 **Reeya Dabas**
 
-B.Tech CSE (DSAI) Student
-
----
-
 ⭐ Thank you for visiting this project!
